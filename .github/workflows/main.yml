@@ -13,7 +13,7 @@ jobs:
 
 
     steps:
-      - name: "Printing folder contents"
-        run: 1s
+      - name: 'Printing folder contents'
+        run: ls
 
       
